@@ -11,6 +11,9 @@
 
 
 ### Day :
+
 **Today's Progress:**
+
 **Thoughts:**
+
 **Link to work:**
