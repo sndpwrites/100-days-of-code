@@ -10,6 +10,15 @@
 **Link to work:**
 
 
+### Day 1: September 19, 2017
+
+**Today's Progress:** Started with some hands-on Javascript tutorials at https://watchandcode.com. Learnt to use plnkr and Object.
+
+**Thoughts:** Plnkr looks like a fun tool. Will be using it for other projects as well.
+
+**Link to work:**
+
+
 ### Day :
 
 **Today's Progress:**
