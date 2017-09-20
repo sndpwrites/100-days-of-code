@@ -19,6 +19,15 @@
 **Link to work:**
 
 
+### Day 2: September 20, 2017
+
+**Today's Progress:** Learnt usage of function arguments, optional arguments, object, properties and arrays in Javascript. Tried few code exercises at http://eloquentjavascript.net/
+
+**Thoughts:** As someone who has usually worked mostly with OOP concepts, Optional arguments was a bit weird for me. Loved the elegance and simplicity of JS codes though.
+
+**Link to work:**
+
+
 ### Day :
 
 **Today's Progress:**
