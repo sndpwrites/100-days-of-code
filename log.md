@@ -28,6 +28,15 @@
 **Link to work:**
 
 
+### Day 3: October 26, 2017
+
+**Today's Progress:** Returned to coding after five week long hiatus. Initialized repo for new Android app. Added first Activity and layout.
+
+**Thoughts:** I love apps. Will look into building an app that is more resource/user friendly than ones I have done before. 
+
+**Link to work:**
+
+
 ### Day :
 
 **Today's Progress:**
