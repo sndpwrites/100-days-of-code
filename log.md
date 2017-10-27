@@ -37,6 +37,15 @@
 **Link to work:**
 
 
+### Day 4: October 27, 2017
+
+**Today's Progress:** Resumed CS50 in edX.
+
+**Thoughts:** Thinking about completing atleast some of the online courses I started.
+
+**Link to work:** https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/
+
+
 ### Day :
 
 **Today's Progress:**
