@@ -45,6 +45,13 @@
 
 **Link to work:** https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/
 
+### Day 4: October 28, 2017
+
+**Today's Progress:** Resumed CS50 in edX.
+
+**Thoughts:** .
+
+**Link to work:** https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/
 
 ### Day :
 
