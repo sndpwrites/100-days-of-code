@@ -53,6 +53,15 @@
 
 **Link to work:** https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/
 
+### Day 5: October 29, 2017
+
+**Today's Progress:** Basic layout design complete. Test on emulator successful. Writing methods to handle UI operations.
+
+**Thoughts:**
+
+**Link to work:**
+
+
 ### Day :
 
 **Today's Progress:**
