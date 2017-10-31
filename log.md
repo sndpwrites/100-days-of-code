@@ -62,6 +62,33 @@
 **Link to work:**
 
 
+### Day 6: October 30, 2017
+
+**Today's Progress:** Worked on Android app
+
+**Thoughts:**
+
+**Link to work:**
+
+
+### Day 7: October 31, 2017
+
+**Today's Progress:** Worked on Android app
+
+**Thoughts:**
+
+**Link to work:**
+
+
+### Day :
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to work:**
+
+
 ### Day :
 
 **Today's Progress:**
