@@ -79,6 +79,30 @@
 
 **Link to work:**
 
+### Day 8: November 1, 2017
+
+**Today's Progress:** Worked on Android app
+
+**Thoughts:**
+
+**Link to work:**
+
+### Day 9: November 2, 2017
+
+**Today's Progress:** Worked on Android app
+
+**Thoughts:**
+
+**Link to work:**
+
+### Day 10: November 3, 2017
+
+**Today's Progress:** pushed to gitlab. Integrated VCS into android studio
+
+**Thoughts:**
+
+**Link to work:**
+
 
 ### Day :
 
