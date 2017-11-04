@@ -104,11 +104,11 @@
 **Link to work:**
 
 
-### Day :
+### Day 11: November 4, 2017
 
-**Today's Progress:**
+**Today's Progress:** added second layout to android app.
 
-**Thoughts:**
+**Thoughts:** <3 gimp.
 
 **Link to work:**
 
