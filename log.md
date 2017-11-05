@@ -113,10 +113,11 @@
 **Link to work:**
 
 
-### Day :
+### Day 12: November 5, 2017
 
-**Today's Progress:**
+**Today's Progress:** added more layout to android app. 
 
-**Thoughts:**
+**Thoughts:** Thinking of working on loading dynamic layouts rather than static ones. Will start work as soon as I complete main functionality.
 
 **Link to work:**
+
