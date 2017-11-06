@@ -121,3 +121,11 @@
 
 **Link to work:**
 
+
+### Day 13: November 6, 2017
+
+**Today's Progress:** implemented bottom navigation. Read material and pure android design concepts. 
+
+**Thoughts:** Design concepts were easy to learn. Eager to implement them as soon as I can.
+
+**Link to work:**
