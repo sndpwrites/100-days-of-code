@@ -129,3 +129,11 @@
 **Thoughts:** Design concepts were easy to learn. Eager to implement them as soon as I can.
 
 **Link to work:**
+
+### Day 14: November 7, 2017
+
+**Today's Progress:** Went through more Material design and design concept patterns. 
+
+**Thoughts:** 
+
+**Link to work:**  https://material.io/ and https://materialdoc.com/
