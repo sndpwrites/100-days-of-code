@@ -137,3 +137,21 @@
 **Thoughts:** 
 
 **Link to work:**  https://material.io/ and https://materialdoc.com/
+
+
+### Day 15: November 8, 2017
+
+**Today's Progress:** Learned about interface and design pattern in Java. 
+
+**Thoughts:** 
+
+**Link to work:**
+
+
+### Day 16: November 9, 2017
+
+**Today's Progress:** Implemented Apache POI library for manipulating spreadsheet files. 
+
+**Thoughts:** 
+
+**Link to work:**
