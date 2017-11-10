@@ -155,3 +155,11 @@
 **Thoughts:** 
 
 **Link to work:**
+
+### Day 17: November 10, 2017
+
+**Today's Progress:** Cleaned Java Code. Use of objects and method inheritance. 
+
+**Thoughts:** <3 OOP
+
+**Link to work:**
