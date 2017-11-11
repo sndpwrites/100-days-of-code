@@ -163,3 +163,30 @@
 **Thoughts:** <3 OOP
 
 **Link to work:**
+
+
+### Day 18: November 11, 2017
+
+**Today's Progress:** finally wrote some UI manipulation code in Java. Added numeric validation in if conditions  
+
+**Thoughts:** <3 OOP.
+
+**Link to work:**
+
+
+### Day : November , 2017
+
+**Today's Progress:**  
+
+**Thoughts:** 
+
+**Link to work:**
+
+
+### Day : November , 2017
+
+**Today's Progress:**  
+
+**Thoughts:** 
+
+**Link to work:**
