@@ -174,9 +174,9 @@
 **Link to work:**
 
 
-### Day : November , 2017
+### Day 19: November 15, 2017
 
-**Today's Progress:**  
+**Today's Progress:**  Used string.split() to obtain three queries from a single string. Code optimising for Java POI.
 
 **Thoughts:** 
 
