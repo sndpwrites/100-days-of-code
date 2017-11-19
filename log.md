@@ -183,10 +183,18 @@
 **Link to work:**
 
 
-### Day : November , 2017
+### Day 20: November 18, 2017
 
-**Today's Progress:**  
+**Today's Progress:** learned how to send POST requests using OkHttp in Java. Practised requests using PostMan app.
 
-**Thoughts:** 
+**Thoughts:** Headers are imp from security point of view
+
+**Link to work:**
+
+### Day 21: November 19, 2017
+
+**Today's Progress:** implemented OkHttp in android to send requests to API server. Working on making dynamic layout based on received data.
+
+**Thoughts:** It's all coming together.
 
 **Link to work:**
