@@ -209,8 +209,25 @@
 
 ### Day 22: November 23, 2017
 
-**Today's Progress:** setup lampp and wrote my first php code. Created database in mysql and used phpmyadmin for data entry. Used php to retrieve data from database.
+**Today's Progress:** setup lampp and wrote my first php code. Created database in mysql and used phpmyadmin for data entry. 
+Used php to retrieve data from database.
 
 **Thoughts:** Need to work towards UI.
 
 **Link to work:**
+
+
+### Day 23: November 25, 2017
+
+**Today's Progress:** Hackathon participation
+
+**Thoughts:**
+
+**Link to work:**
+
+
+### Day 24: November 26, 2017
+
+**Today's Progress:** Hackathon participation
+
+**Thoughts:**
