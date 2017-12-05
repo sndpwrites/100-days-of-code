@@ -231,3 +231,10 @@ Used php to retrieve data from database.
 **Today's Progress:** Hackathon participation
 
 **Thoughts:**
+
+
+### Day 25: December 5, 2017
+
+**Today's Progress:** Worked with data from Web API to throw as JSON into client's sqlite db and read data from table. Developed getter and setter methods for database model.
+
+**Thoughts:** It all comes together.
