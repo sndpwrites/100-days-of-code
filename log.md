@@ -240,19 +240,19 @@ Used php to retrieve data from database.
 **Thoughts:** It all comes together.
 
 
-### Day 26: December 6, 2017
+### Day 26: December 7, 2017
 
 **Today's Progress:** worked with json-server to manage a db.json file on a localhost server and pull data from there. Learned to make application logo using gimp.
 
 **Thoughts:** Useful when internet is not around. Just save the contents of a JSON file locally and change okhttp to point to localhost. Would like to explore gimp more.
 
-### Day 27: December 6, 2017
+### Day 27: December 8, 2017
 
 **Today's Progress:** worked in android app. Implemented a BaseAdapter to populate data from data model. 
 
 **Thoughts:** 
 
-### Day 28: December 7, 2017
+### Day 28: December 9, 2017
 
 **Today's Progress:** worked in android app. Extended BaseAdapter to use a more complex custom layout. Added consistency in app design using app logo as a source. Extended previous UI manipulation code to change textview texts;
 
