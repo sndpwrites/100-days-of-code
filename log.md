@@ -257,3 +257,13 @@ Used php to retrieve data from database.
 **Today's Progress:** worked in android app. Extended BaseAdapter to use a more complex custom layout. Added consistency in app design using app logo as a source. Extended previous UI manipulation code to change textview texts;
 
 **Thoughts:** Basic UI change methods might be placed in the same class. That way it would be easier to access them by simple passing arguments to select particular operation. Will look into it pretty soon.
+
+### Day 29: December 10, 2017
+
+**Today's Progress:** Understood how baseadapters work and firing onClickListeners on BaseAdapters instead of GridView.
+**Thoughts:** code still didn't work as intended but cleaned the code even better. 
+
+### Day 30: December 11, 2017
+
+**Today's Progress:** finally fixed the onClickListener bug. Improved Logo design. Learnt about Volley and Retrofitting.
+**Thoughts:**  Interfaces look cool. Looking forward to implementing them in projects(or, using classes to implement the interfaces, hehe)
