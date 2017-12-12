@@ -267,3 +267,8 @@ Used php to retrieve data from database.
 
 **Today's Progress:** finally fixed the onClickListener bug. Improved Logo design. Learnt about Volley and Retrofitting.
 **Thoughts:**  Interfaces look cool. Looking forward to implementing them in projects(or, using classes to implement the interfaces, hehe)
+
+### Day 31: December 12, 2017
+
+**Today's Progress:** worked on android app. Cleaned unusable code and fixed minor bugs.
+**Thoughts:** 
