@@ -272,3 +272,8 @@ Used php to retrieve data from database.
 
 **Today's Progress:** worked on android app. Cleaned unusable code and fixed minor bugs.
 **Thoughts:** 
+
+### Day 32: December 13, 2017
+
+**Today's Progress:** worked on android app. Implemented bottom navigation bar and tried making UI more consistent.
+**Thoughts:** 
