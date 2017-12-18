@@ -261,11 +261,13 @@ Used php to retrieve data from database.
 ### Day 29: December 10, 2017
 
 **Today's Progress:** Understood how baseadapters work and firing onClickListeners on BaseAdapters instead of GridView.
+
 **Thoughts:** code still didn't work as intended but cleaned the code even better. 
 
 ### Day 30: December 11, 2017
 
 **Today's Progress:** finally fixed the onClickListener bug. Improved Logo design. Learnt about Volley and Retrofitting.
+
 **Thoughts:**  Interfaces look cool. Looking forward to implementing them in projects(or, using classes to implement the interfaces, hehe)
 
 ### Day 31: December 12, 2017
@@ -276,4 +278,11 @@ Used php to retrieve data from database.
 ### Day 32: December 13, 2017
 
 **Today's Progress:** worked on android app. Implemented bottom navigation bar and tried making UI more consistent.
+
+**Thoughts:** 
+
+
+### Day 33: December 17, 2017
+
+**Today's Progress:** worked on android app. Implemented volley. Added snackbar design element.
 **Thoughts:** 
