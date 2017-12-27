@@ -286,3 +286,8 @@ Used php to retrieve data from database.
 
 **Today's Progress:** worked on android app. Implemented volley. Added snackbar design element.
 **Thoughts:** 
+
+### Day 34: December 27, 2017
+
+**Today's Progress:** reopened old launcher app. Improved design and cleaned code.
+**Thoughts:**
