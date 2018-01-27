@@ -273,6 +273,7 @@ Used php to retrieve data from database.
 ### Day 31: December 12, 2017
 
 **Today's Progress:** worked on android app. Cleaned unusable code and fixed minor bugs.
+
 **Thoughts:** 
 
 ### Day 32: December 13, 2017
@@ -285,9 +286,32 @@ Used php to retrieve data from database.
 ### Day 33: December 17, 2017
 
 **Today's Progress:** worked on android app. Implemented volley. Added snackbar design element.
+
 **Thoughts:** 
 
 ### Day 34: December 27, 2017
 
 **Today's Progress:** reopened old launcher app. Improved design and cleaned code.
+
+**Thoughts:**
+
+
+### Day 35: January 27, 2018
+
+**Today's Progress:** Setup pi with latest Debian Stretch. Setup Samba for file sharing and dataplicity for remote access.
+
+**Thoughts:**
+
+
+### Day : December 27, 2018
+
+**Today's Progress:** 
+
+**Thoughts:**
+
+
+### Day : December 27, 2018
+
+**Today's Progress:** 
+
 **Thoughts:**
