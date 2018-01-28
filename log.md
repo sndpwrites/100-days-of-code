@@ -303,11 +303,11 @@ Used php to retrieve data from database.
 **Thoughts:**
 
 
-### Day : December 27, 2018
+### Day 36: December 28, 2018
 
-**Today's Progress:** 
+**Today's Progress:** Configured to auto mount USB disk on boot. Setup proper permissions as rw to root users and r only for guest users on same network. Going to start hosting files now. Also configured ssh to improve response speed(useDNS=No) 
 
-**Thoughts:**
+**Thoughts:** It all comes together.
 
 
 ### Day : December 27, 2018
