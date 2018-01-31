@@ -315,3 +315,9 @@ Used php to retrieve data from database.
 **Today's Progress:** Setup apache2 server with success. Learning to setup mail server using postfix. Learnt about sysv-rc-conf as a backend tool for start/stop processes. 
 
 **Thoughts:**
+
+### Day 38: January 31, 2018
+
+**Today's Progress:** Finally finished setting up postfix with dovecot. Still need to register for a FQDN for a functioning mail server. Also, setup private git repo to practice programming across machine and pi. 
+
+**Thoughts:** Will start working on web scraping for data collection. Thinking of gathering enough data to practice visualisation and data analytics.
