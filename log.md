@@ -321,3 +321,9 @@ Used php to retrieve data from database.
 **Today's Progress:** Finally finished setting up postfix with dovecot. Still need to register for a FQDN for a functioning mail server. Also, setup private git repo to practice programming across machine and pi. 
 
 **Thoughts:** Will start working on web scraping for data collection. Thinking of gathering enough data to practice visualisation and data analytics.
+
+### Day 39: February 1, 2018
+
+**Today's Progress:** Started learning BeautifulSoup for web scraping.  
+
+**Thoughts:** Will start working on web scraping for data collection. Thinking of gathering enough data to practice visualisation and data analytics.
