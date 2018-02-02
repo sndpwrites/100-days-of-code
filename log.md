@@ -327,3 +327,9 @@ Used php to retrieve data from database.
 **Today's Progress:** Started learning BeautifulSoup for web scraping.  
 
 **Thoughts:** Will start working on web scraping for data collection. Thinking of gathering enough data to practice visualisation and data analytics.
+
+### Day 40: February 2, 2018
+
+**Today's Progress:** Setup MEAN stack on pi. Hoping to learn js apps now.  
+
+**Thoughts:** Tinkering with web apps for now. Also, thinking abt working with web fronts with cli backends.
