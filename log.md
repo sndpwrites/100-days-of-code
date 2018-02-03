@@ -333,3 +333,9 @@ Used php to retrieve data from database.
 **Today's Progress:** Setup MEAN stack on pi. Hoping to learn js apps now.  
 
 **Thoughts:** Tinkering with web apps for now. Also, thinking abt working with web fronts with cli backends.
+
+### Day 41: February 3, 2018
+
+**Today's Progress:** Setup Google Home on PI along with startup on boot. Setup speaker and microphones for it. Also did some minor DIY cable management and headphone stand. Home setup almost complete.  
+
+**Thoughts:** Tinkering with web apps for now. Also, thinking abt working with web fronts with cli backends.
