@@ -340,5 +340,14 @@ Used php to retrieve data from database.
 
 **Thoughts:** Tinkering with web apps for now. Also, thinking abt working with web fronts with cli backends.
 
-###Day 42: February 4, Kathmandu
-List of trending news from ekantipuf via scraping
+
+### Day 42: February 4, 2018
+
+**Today's Progress:** List of trending news from ekantipur website via webscraping. Learning to use beautifulsoup.
+**Thoughts:**
+
+
+### Day 43: February 5, 2018
+
+**Today's Progress:** Improved code to get link along with title. Encoded a JSON file containing all pulled data. Setup django web server.
+**Thoughts:** starting/stopping django is so easy I can't even
