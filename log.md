@@ -353,6 +353,25 @@ Used php to retrieve data from database.
 **Thoughts:** starting/stopping django is so easy I can't even
 
 
+### Day 44: February 6, 2018
+
+**Today's Progress:** Been reading Django docs. Setup mysql connector to store scraped data onto a table.
+**Thoughts:** hoping to integrate mysql server with django to organise and get json requests from client side.
+
+### Day 45: February 7, 2018
+
+**Today's Progress:** Wrote another scraper to extract data from a table in wikipedia.
+**Thoughts:**
+
+### Day 44: February 6, 2018
+
+**Today's Progress:** Been reading Django docs. Setup mysql connector to store scraped data onto a table.
+**Thoughts:** hoping to integrate mysql server with django to organise and get json requests from client side.
+
+### Day 44: February 6, 2018
+
+**Today's Progress:** Been reading Django docs. Setup mysql connector to store scraped data onto a table.
+**Thoughts:** hoping to integrate mysql server with django to organise and get json requests from client side.
 
 ### Day 44: February 6, 2018
 
