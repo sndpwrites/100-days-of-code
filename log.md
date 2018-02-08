@@ -363,10 +363,10 @@ Used php to retrieve data from database.
 **Today's Progress:** Wrote another scraper to extract data from a table in wikipedia.
 **Thoughts:**
 
-### Day 44: February 6, 2018
+### Day 46: February 8, 2018
 
-**Today's Progress:** Been reading Django docs. Setup mysql connector to store scraped data onto a table.
-**Thoughts:** hoping to integrate mysql server with django to organise and get json requests from client side.
+**Today's Progress:** Setup pycharm.
+**Thoughts:**
 
 ### Day 44: February 6, 2018
 
