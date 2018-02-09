@@ -344,18 +344,21 @@ Used php to retrieve data from database.
 ### Day 42: February 4, 2018
 
 **Today's Progress:** List of trending news from ekantipur website via webscraping. Learning to use beautifulsoup.
+
 **Thoughts:**
 
 
 ### Day 43: February 5, 2018
 
 **Today's Progress:** Improved code to get link along with title. Encoded a JSON file containing all pulled data. Setup django web server.
+
 **Thoughts:** starting/stopping django is so easy I can't even
 
 
 ### Day 44: February 6, 2018
 
 **Today's Progress:** Been reading Django docs. Setup mysql connector to store scraped data onto a table.
+
 **Thoughts:** hoping to integrate mysql server with django to organise and get json requests from client side.
 
 ### Day 45: February 7, 2018
@@ -366,14 +369,37 @@ Used php to retrieve data from database.
 ### Day 46: February 8, 2018
 
 **Today's Progress:** Setup pycharm.
+
+
+### Day 47: February 9, 2018
+
+**Today's Progress:** started lvl2 scraping by getting list of hyperlinks and serving second round of requests to BeuatifulSoup.
+
+**Thoughts:** hoping to work more with the data
+
+### Day : February , 2018
+
+**Today's Progress:** 
+
 **Thoughts:**
 
-### Day 44: February 6, 2018
 
-**Today's Progress:** Been reading Django docs. Setup mysql connector to store scraped data onto a table.
-**Thoughts:** hoping to integrate mysql server with django to organise and get json requests from client side.
+### Day : February , 2018
 
-### Day 44: February 6, 2018
+**Today's Progress:** 
 
-**Today's Progress:** Been reading Django docs. Setup mysql connector to store scraped data onto a table.
-**Thoughts:** hoping to integrate mysql server with django to organise and get json requests from client side.
+**Thoughts:**
+
+
+### Day : February , 2018
+
+**Today's Progress:** 
+
+**Thoughts:**
+
+
+### Day : February , 2018
+
+**Today's Progress:** 
+
+**Thoughts:**
