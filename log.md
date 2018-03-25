@@ -377,16 +377,16 @@ Used php to retrieve data from database.
 
 **Thoughts:** hoping to work more with the data
 
-### Day : February , 2018
+### Day 48: March 24, 2018
 
-**Today's Progress:** 
+**Today's Progress:** reworked twitter bot with better code patterns and less of a mess. Deployed a bot to choose friends episode at random and tweet a dialogue. Added cron job to search new tweet every two minutes.
 
 **Thoughts:**
 
 
-### Day : February , 2018
+### Day 49: March 25, 2018
 
-**Today's Progress:** 
+**Today's Progress:** Deployed a second bot that RTs popular tweets based on keyword search. Limit specified by passing the second argument.
 
 **Thoughts:**
 
