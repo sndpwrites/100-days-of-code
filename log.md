@@ -391,9 +391,11 @@ Used php to retrieve data from database.
 **Thoughts:**
 
 
-### Day : February , 2018
+### Day 50: April 25 , 2018
 
-**Today's Progress:** 
+**Today's Progress:** 1. added node_cmd to list of modules.
+2. call tweet.js from youtube-link-generator success
+3. cleaned tweet.js
 
 **Thoughts:**
 
